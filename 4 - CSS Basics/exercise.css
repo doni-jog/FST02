@@ -1,0 +1,178 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, sans-serif;
+}
+
+/* header */
+
+.header{
+    background:#333;
+}
+
+.header h1{
+    text-align:center;
+    padding: 50px 0;
+    color:#fff;
+    margin:0
+}
+
+/* main */
+
+.main{
+    margin: 55px;
+    padding: 20px;
+}
+
+.main h3 {
+    color: #000000;
+    height: 30px;
+    margin: 20px 439px;
+    padding: 6px 11px 4px 9px;
+    text-align: center;
+    width: 300px;
+    border: 1px solid #e5e4e4;
+}
+
+
+.main ul li{
+    line-height:1.5;
+}
+
+.font-family-size{
+    border-bottom: 2px solid #ccc;
+    padding-bottom:10px;
+    font-size:20px;
+    padding-top:15px;
+}
+
+.bold {
+    font-weight:700;
+}
+
+
+.line-height{
+    line-height:1.5;
+}
+
+.class-name {
+    color:#d9534f;
+    background-color:#f9d6d5;
+    padding :10px;
+    border-radius:5px;
+}
+
+/* solutions */
+
+#solutions{
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#solutions .solutions-parag-container{
+    line-height:1.5;
+    color:green;
+    font-style:italic;
+}
+
+/* box */
+
+.box1 {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f0ad4e;
+    color: #fff;
+}
+
+.box2 {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #5bc0de;
+    color: #fff;
+}
+
+.box3 {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #5cb85c;
+    color: #fff;
+}
+
+.box4 {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #d9534f;
+    color: #fff;
+}
+
+
+/* project highlight */
+
+.project-highlight {
+    margin: 10px 0px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    color: rgb(51, 51, 51);
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #cccccc;
+}
+
+
+/* pricing */
+
+.pricing {
+    text-align:center;
+    font-size:24px;
+}
+
+
+.pricing .product-name {
+ color:#000;
+}
+
+.pricing .line-through{
+    text-decoration: line-through solid #777777;
+    color: #777777;
+}
+
+.pricing .sale-price {
+   font-weight :700;
+   color:#d9534f;
+}
+
+
+/* contact us */
+p.font-family-size {
+    border-bottom:none;
+    margin-bottom:0;
+}
+
+.email {
+    color:#008000;
+}
+
+.logo {
+    width:20px;
+    height:20px;
+}
+
+ 
+/* footer */
+
+.footer {
+    margin-bottom: 40px;
+    background-color: #333333;
+    color: #fff;
+    margin-top: 20px;
+    padding: 10px 0px;
+    text-align: center;
+    margin-bottom:0;
+}
